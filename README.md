@@ -24,7 +24,7 @@
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/JPSRJ/JPSRJ/issues) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **I'm still a Noob**
-- 📫 How to reach me: Telegram - [@TharukRenuja](https://t.me/TharukRenuja)
+- 📫 How to reach me: Telegram - [@JPSRJ](https://t.me/JPSRJ)
 
 <br/>
 <br/>
@@ -45,10 +45,10 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/TharukRenuja">
+  <a href="https://github.com/JPSRJ">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tharukrenuja&show_icons=true&theme=transparent&hide_border=true"/>
   </a>
-  <a href="https://github.com/TharukRenuja">
+  <a href="https://github.com/JPSRJ">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharukrenuja&layout=compact&langs_count=10&theme=transparent&hide_border=true" />
   </a>
 </p>
