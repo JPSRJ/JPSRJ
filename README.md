@@ -4,9 +4,9 @@ Here’s a GitHub README template for you based on the information you’ve shar
 
 # Hi there! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B5DF7&size=75&width=1050&height=200&lines=I'm+Samithu+Ranmira)](https://github.com/yourusername) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=75&width=1050&height=200&lines=I'm+Samithu+Ranmira)](https://github.com/yourusername) 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DBF7F4&random=false&width=435&lines=I'm+an+Aspiring+Computer+Science+Engineer;Currently+Learning+Python%2C+Web+Development%2C+and+AI%2C+Creating+a+Virtual+Company)](https://github.com/yourusername)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0000ff&random=false&width=435&lines=I'm+an+Aspiring+Computer+Science+Engineer;Currently+Learning+Python%2C+Web+Development%2C+and+AI%2C+Creating+a+Virtual+Company)](https://github.com/yourusername)
 
 
 🌟 **Aspiring Computer Science Engineer**  
