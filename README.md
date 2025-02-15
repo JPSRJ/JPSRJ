@@ -13,7 +13,7 @@
 - 🌱 Currently exploring and learning new technologies in computer science.  
 - 🎯 Passionate about software development, web design, and virtual systems.  
 - 📡 Love working on futuristic projects that bridge innovation and accessibility.  
-- 🛠️ Focused on bypassing DRM protections to make content more accessible, while respecting the rights of creators.
+- 🛠️ Focused on bypassing DRM protections.
 
 ---
 
